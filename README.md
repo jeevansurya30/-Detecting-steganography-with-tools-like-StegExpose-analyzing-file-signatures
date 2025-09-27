@@ -59,5 +59,6 @@ List of Images with Steganography Detection Scores and File Signature Details
 
 
 
+
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
